@@ -1,15 +1,19 @@
 # SwiftTestingFramework
 Swift Testing Framework -> Automation Testing of Swift
 
-4 Building block of Swift Testing are
+**4 Building block of Swift Testing are
+**
 
 1. @Test
 2. #expect()
 3. #require
 4. Suites
 
+<img width="1310" alt="Screenshot 2025-02-14 at 6 15 08 PM" src="https://github.com/user-attachments/assets/27f8afee-4a44-47a1-987c-ea34a30336e2" />
 
-Traits
+
+**Traits
+**
 
 <img width="1384" alt="Screenshot 2025-02-14 at 5 58 02 PM" src="https://github.com/user-attachments/assets/1194429a-6ba2-4eb2-945f-c5762521a431" />
 
