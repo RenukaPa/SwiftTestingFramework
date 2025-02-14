@@ -1,5 +1,13 @@
 # SwiftTestingFramework
 Swift Testing Framework -> Automation Testing of Swift
+
+4 Building block of Swift Testing are
+
+1. @Test
+2. #expect()
+3. #require
+4. Traits
+
 <img width="702" alt="Screenshot 2025-02-14 at 2 38 38 PM" src="https://github.com/user-attachments/assets/692d951b-c833-4da3-83dd-1bfc7d6aa8a8" />
 <img width="605" alt="Screenshot 2025-02-14 at 2 38 44 PM" src="https://github.com/user-attachments/assets/26120a0a-1928-47f7-a860-f4cb0357eca6" />
 
