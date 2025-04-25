@@ -19,14 +19,12 @@ Traits
 <img width="605" alt="Screenshot 2025-02-14 at 2 38 44 PM" src="https://github.com/user-attachments/assets/26120a0a-1928-47f7-a860-f4cb0357eca6" />
 
 
-**More contents to refer:
-**
-https://www.youtube.com/watch?v=WFnkNcvLnCI
-https://www.youtube.com/watch?v=bOvWGHi-BxI
+More contents to refer:
+1. https://www.youtube.com/watch?v=WFnkNcvLnCI
+2. https://www.youtube.com/watch?v=bOvWGHi-BxI
 
 
-**Apple Documentation to refer:
-**
-https://developer.apple.com/xcode/swift-testing/
-https://developer.apple.com/documentation/testing/
-https://github.com/swiftlang/swift-testing (released recently ver 6.1)
+Apple Documentation to refer:
+1. https://developer.apple.com/xcode/swift-testing/
+2. https://developer.apple.com/documentation/testing/
+3. https://github.com/swiftlang/swift-testing (released recently ver 6.1)
